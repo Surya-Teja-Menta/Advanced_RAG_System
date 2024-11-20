@@ -28,7 +28,7 @@ A sophisticated, modular Retrieval-Augmented Generation system designed for inte
 ## 📦 Setup Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/advanced-rag-assistant.git
+git clone https://github.com/Surya-Teja-Menta/Advanced_RAG_System.git
 
 # Create virtual environment
 python -m venv venv
