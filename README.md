@@ -90,7 +90,7 @@ An advanced Retrieval-Augmented Generation (RAG) research assistant designed to 
 ## 📦 Installation & Setup
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - pip
 - Ollama
 - Hugging Face account
