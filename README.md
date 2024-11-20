@@ -165,6 +165,6 @@ MIT License
 - Expanded retrieval strategies
 
 ## 📞 Contact
-- Project Maintainer: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Project Maintainer: Surya Teja Menta
+- Email: mentasuryateja@gmail.com
+- GitHub: https://github.com/Surya-Teja-Menta
